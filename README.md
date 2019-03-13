@@ -1,8 +1,8 @@
-# Bug's Life 🐜
+# Bug's Life
 
 Course: CS 112 (spring semester 2016/2017)
 
-Project: a 2D simulation of anthills competing for food
+Project: a 2D simulation of anthills competing for food 🐜
 
 Partner: Florian Hartmann
 
