@@ -35,3 +35,7 @@ The programme has 4 working modes:
 The default mode is Final.
 
 Through the UI you can open a simulation text file, save the current state of the simulation, record the simulation (plots with gnuplots), and control food generation.
+
+![Alt](pic_1.PNG)
+
+![Alt](pic_2.PNG)
