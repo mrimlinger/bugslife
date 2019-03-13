@@ -30,7 +30,7 @@ The programme has 4 working modes:
 - Graphic (for grading purposes only)
 - Final ✔️
 
-'./bugslife.x [Error|Verification|Graphic|Final, F04.txt]
+`./bugslife.x [Error|Verification|Graphic|Final, F04.txt]`
 
 The default mode is Final.
 
