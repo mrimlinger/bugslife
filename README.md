@@ -23,7 +23,7 @@ First install the following libraries:
 - GLUT: use `sudo apt-get install freeglut3 freeglut3-dev`
 - GLUI: download `libglui2c2` and `libglui` (check [here](http://www.rpmseek.com/index.html?hl=com)), then use `dpkg -i <package name>`.
 
-Then you should be able to compile in source folder using `make`. Many test files are available in test_files folder. Most of them are meant to trigger a specific error scenario. To get a a working simulation try `F04.txt` or build your own simulation text file! 
+Then you should be able to compile in source folder using `make`. Many test files are available in the test_files folder. Most of them are meant to trigger a specific error scenario. To get a a working simulation try `F04.txt` or build your own simulation text file! 
 
 The programme has 4 working modes:
 
