@@ -4,6 +4,8 @@ Course: CS 112 (spring semester 2016/2017)
 
 Project: a 2D simulation of anthills competing for food
 
+Partner: Florian Hartmann
+
 ![Alt](pic_0.PNG)
 
 ## Behavior and rules of the simulation
@@ -18,8 +20,8 @@ WIP
 
 First install the following libraries:
 
-- GLUT: use 'sudo apt-get install freeglut3 freeglut3-dev'
-- GLUI: download 'libglui2c2' and 'libglui' (check [here](http://www.rpmseek.com/index.html?hl=com)), then use 'dpkg -i <package name>'.
+- GLUT: use `sudo apt-get install freeglut3 freeglut3-dev`
+- GLUI: download `libglui2c2` and `libglui` (check [here](http://www.rpmseek.com/index.html?hl=com)), then use `dpkg -i <package name>`.
 
 Then you should be able to compile in folder source using 'make'.
 
