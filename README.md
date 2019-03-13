@@ -1,4 +1,4 @@
-# Bug's Life
+# Bug's Life 🐜
 
 Course: CS 112 (spring semester 2016/2017)
 
@@ -7,6 +7,10 @@ Project: a 2D simulation of anthills competing for food
 ![Alt](pic_0.PNG)
 
 ## Behavior and rules of the simulation
+
+WIP
+
+## Simulation text files format
 
 WIP
 
@@ -26,7 +30,8 @@ The programme has 4 working modes:
 - Graphic (for grading purposes only)
 - Final ✔️
 
-'./bugslife.x [Error|Verification|Graphic|Final, FO4.txt]
+'./bugslife.x [Error|Verification|Graphic|Final, F04.txt]
 
-The default mode is Final
+The default mode is Final.
 
+Through the UI you can open a simulation text file, save the current state of the simulation, record the simulation (plots with gnuplots), and control food generation.
