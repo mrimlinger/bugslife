@@ -22,7 +22,7 @@ Partner: Florian Hartmann
 
 The detailed rules set for the simulations (behavior of the ants, population evolution, food generation/consumption, anthill size, etc) can be found in `BugsLife_V1.0` (in French).
 
-[//]: <> # ## Simulation text files format WIP
+[//]: <> (## Simulation text files format WIP)
 
 ## User manual (Linux)
 
@@ -44,9 +44,9 @@ The programme has 4 working modes:
 
 The default mode is Final.
 
-Through the UI you can open a simulation text file, save the current state of the simulation, start/stop the simulation, record the simulation and control food generation. The record files (`.dat`) can be plotted with `gnuplot`: 
+![Alt](pic_3.png)
+
+The UI display informations about the simulation and allows you to open a simulation text file, save the current state of the simulation, start/stop the simulation, record the simulation and control food generation. The record files (`.dat`) can be plotted with `gnuplot`: 
 
 `plot "out.dat" using 1:2 with lines,"out.dat" using 1:3 with lines, "out.dat" using 1:4 with lines,"out.dat"`
-
-![Alt](pic_3.png)
 
