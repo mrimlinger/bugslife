@@ -22,7 +22,9 @@ Partner: Florian Hartmann
 
 The detailed rules set for the simulations (behavior of the ants, population evolution, food generation/consumption, anthill size, etc) can be found in `BugsLife_V1.0` (in French).
 
-[//]: <> (## Simulation text files format WIP)
+## Simulation text files format 
+
+WIP
 
 ## User manual (Linux)
 
@@ -35,9 +37,7 @@ Then you should be able to compile in source folder using `make`. Many test file
 
 The programme has 4 working modes:
 
-- Error (for grading purposes only)
-- Verification (for grading purposes only)
-- Graphic (for grading purposes only)
+- Error / Verification / Graphic (for grading purposes only)
 - Final ✔️
 
 `./bugslife.x [Error|Verification|Graphic|Final, F04.txt]`
