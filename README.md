@@ -22,9 +22,7 @@ Partner: Florian Hartmann
 
 The detailed rules set for the simulations (behavior of the ants, population evolution, food generation/consumption, anthill size, etc) can be found in `BugsLife_V1.0` (in French).
 
-[comment]: <## Simulation text files format
-
-WIP>
+[//]: <> # ## Simulation text files format WIP
 
 ## User manual (Linux)
 
