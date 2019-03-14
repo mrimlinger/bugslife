@@ -1,6 +1,6 @@
 # Bug's Life
 
-Course: CS 112 (spring semester 2016/2017)
+Course: EPFL - CS 112 - Programming II (spring semester 2016/2017)
 
 Project: a 2D simulation of anthills competing for food 🐜
 
