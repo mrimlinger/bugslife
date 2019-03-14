@@ -10,7 +10,7 @@ Partner: Florian Hartmann
 
 ## Behavior and rules of the simulation
 
-WIP
+The rules set for the simulations (behavior of the ants, population evolution, food generation/consumption, anthill size, etc) can be found in 
 
 ## Simulation text files format
 
@@ -36,7 +36,7 @@ The programme has 4 working modes:
 
 The default mode is Final.
 
-Through the UI you can open a simulation text file, save the current state of the simulation, start/stop the simulation, record the simulation (plots with gnuplots), and control food generation.
+Through the UI you can open a simulation text file, save the current state of the simulation, start/stop the simulation, record the simulation and control food generation. The record files (`.dat`) can be plotted with `gnuplot` using `plot "out.dat" using 1:2 with lines,"out.dat" using 1:3 with lines, "out.dat" using 1:4 with lines,"out.dat"`
 
 ![Alt](pic_3.png)
 
