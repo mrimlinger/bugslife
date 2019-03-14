@@ -20,11 +20,7 @@ Partner: Florian Hartmann
 - Food is generated randomly on the map
 - The birth rate of new ants inside an anthill depends on the population and food supply of the anthill.
 
-The detailed rules set for the simulations (behavior of the ants, population evolution, food generation/consumption, anthill size, etc) can be found in `BugsLife_V1.0` (in French).
-
-## Simulation text files format 
-
-WIP
+The detailed rules set for the simulations (behavior of the ants, population evolution, food generation/consumption, anthill size, etc) can be found in `BugsLife_V1.0` (in French). The simulation text files format is also specified there.
 
 ## User manual (Linux)
 
